@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="https://github.com/AtsushiSakai/PythonRobotics/raw/master/icon.png?raw=true" align="right" width="300" alt="header pic"/>
 
 # PythonRobotics
@@ -605,3 +606,6 @@ If you or your company would like to support this project, please consider:
 - [Erwin Lejeune](https://github.com/guilyx)
 
 
+=======
+# FirstTask
+>>>>>>> main
